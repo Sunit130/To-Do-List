@@ -1,5 +1,5 @@
 # To-Do-List
-This 
+This is a web application which shows the to do list of Today by default. Also user can add another list just by adding new list name in URl (/<new list name>). This application uses Nodejs(backend) and MongoDB(database).
 
 
 ## What I've learned
